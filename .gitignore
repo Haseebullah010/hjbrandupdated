@@ -1,0 +1,13 @@
+*.pyc
+__pycache__/
+*.sqlite3
+*.log
+.env
+venv/
+env/
+.DS_Store
+*.idea/
+*.vscode/
+staticfiles/
+media/
+"credentials.json" 
